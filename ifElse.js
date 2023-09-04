@@ -1,12 +1,20 @@
-let num1 = 6;
-let num2 = 4;
-let result = num1 + num2;
+let num = 5; 
+if (num % 2 === 0) { 
+console.log(num + ' is even.'); 
+} 
+else{ 
+console.log(num + ' is odd.'); 
+}
 
-if(result)
-   console.log("num1 is greater");
-
-console.log("Bye...")
 
 
-// else 
-//   console.log("num2 is greater")
+// // if (condition) {
+//     // code to run if condition is true 
+//    } else { 
+//       // code to run if 
+// // condition is false 
+// }
+
+// for (let i = 1; i <= 20; i++) { 
+// console.log(i); 
+// }

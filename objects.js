@@ -21,4 +21,4 @@ street: '123 Main St', city: 'Anytown', state: 'CA'
  person.age = 40;
  person.address.state = 'NY';
 
- console.log( person.address.state);
+ console.log(person.age);
